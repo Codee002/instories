@@ -290,7 +290,4 @@ VUE_APP_AGORA_APP_ID=...
 - Có luồng email thực tế: xác thực email, quên mật khẩu, xác thực 2 bước
 - Mô hình dữ liệu khá đầy đủ cho một mạng xã hội mini: user, profile, relation, post, comment, share, like, story, conversation, message, notification, report
 
-## 12. Ghi chú
 
-- Repo hiện có chỉnh sửa chưa commit ở một số file nguồn; README này chỉ mô tả theo trạng thái code hiện tại.
-- File `back_end/.env.example` hiện không có trong repo, nên khi setup local cần tự tạo `.env` từ mẫu Laravel tương ứng rồi bổ sung các biến ở trên.
